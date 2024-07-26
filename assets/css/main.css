@@ -215,7 +215,9 @@ a:hover {
 	color: #49bf9d !important;
 	text-decoration: none;
 }
-
+#creditcolor{
+	color: #b2b2b2;
+}
 strong,
 b {
 	color: #787878;
@@ -1873,10 +1875,11 @@ article.special {
 	text-align: center;
 }
 
+
 header p {
 	color: #b2b2b2;
 	position: relative;
-	margin: 0 0 1.5em 0;
+	margin: 0 0 0 0;
 }
 
 header h2+p {
