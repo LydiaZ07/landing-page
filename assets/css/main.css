@@ -2152,7 +2152,11 @@ input[type="radio"]+label:before {
 	display: inline-block;
 	position: relative;
 }
-
+.image.fit.thumb {
+	width:  360px;
+    height: 360px;
+	opacity: 1.0;
+}
 .image:before {
 	-moz-transition: opacity 0.2s ease-in-out;
 	-webkit-transition: opacity 0.2s ease-in-out;
