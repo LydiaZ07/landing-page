@@ -194,7 +194,7 @@ body,
 input,
 select,
 textarea {
-	color: #808080;
+	color: #595959;
 	font-family: "Source Sans Pro", Helvetica, sans-serif;
 	font-size: 16pt;
 	font-weight: 400;
@@ -367,6 +367,9 @@ pre code {
 	width: 100%;
     padding: 20px;
     text-align: center;
+	background-color: rgba(154, 171, 149, 0.221);
+	border-radius: 10px;
+
 }
 
 .img-featured {
@@ -378,10 +381,11 @@ pre code {
 }
 
 .text-box {
-	background-color: rgba(154, 171, 149, 0.604);
 	justify-content: center;
 	margin-top: 10px;
 	padding-right: 15px;
+	border-radius: 10px;
+
 }
 
 .container {
