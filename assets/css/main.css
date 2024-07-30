@@ -243,7 +243,7 @@ h4,
 h5,
 h6 {
 	color: #36454F;
-	font-weight: 400;
+	font-weight: 700;
 	line-height: 1em;
 	margin: 0 0 1em 0;
 }
@@ -369,7 +369,10 @@ pre code {
     text-align: center;
 	background-color: rgba(154, 171, 149, 0.221);
 	border-radius: 10px;
+}
 
+#card-title {
+	font-weight: bold;
 }
 
 .img-featured {
