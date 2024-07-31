@@ -2885,6 +2885,13 @@ input[type="button"]:disabled,
 	padding-top: 0;
 }
 
+.samebkcolor {
+	background-color: rgba(154, 171, 149, 0.221);
+	padding: 25px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+
 /* Poptrox */
 
 @-moz-keyframes spin {
