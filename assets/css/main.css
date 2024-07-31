@@ -3407,7 +3407,15 @@ body.is-touch .poptrox-popup .closer {
 	#header h1 br {
 		display: none;
 	}
+	
+	.text-box {
+		padding-right: 0px;
+	}
 
+	.img-featured {
+		max-width: 240px;
+		margin-bottom: 10px;
+	}
 	/* Footer */
 
 	#footer .copyright li {
