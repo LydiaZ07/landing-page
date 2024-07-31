@@ -375,10 +375,9 @@ pre code {
 
 h2#class-title {
 	text-decoration: none;
-	color: white;
+	color: rgb(65, 96, 66);
 	font: 1.5em Verdana, Geneva, sans-serif;
-	text-shadow: 0px 0px 5px #2a4b3d, 0px 0px 10px #2a4b3d, 0px 0px 10px #2a4b3d,
-    0px 0px 20px #2a4b3d;
+	font-weight: bolder;
 }
 
 .img-featured {
