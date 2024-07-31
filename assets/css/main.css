@@ -126,7 +126,7 @@ q {
 }
 
 .inside {
-	padding-right: 25px;
+	padding-right: 35px;
 }
 
 #pfp {
@@ -2322,7 +2322,7 @@ input[type="radio"]+label:before {
 
 .image.avatar img {
 	border-radius: 100%;
-	width: 140%;
+	width: 150%;
 }
 
 /* List */
