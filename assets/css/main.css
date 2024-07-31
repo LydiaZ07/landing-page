@@ -2790,10 +2790,6 @@ input[type="button"]:disabled,
 	flex-grow: 1;
 }
 
-#pfp {
-	margin: 0 5em 0 0;
-}
-
 #header strong,
 #header b {
 	color: #ffffff;
@@ -3136,9 +3132,6 @@ input[type="button"]:disabled,
 
 /* Touch */
 
-body.is-touch .image.thumb:before {
-	opacity: 0.5 !important;
-}
 
 body.is-touch .image.thumb:after {
 	display: none !important;
