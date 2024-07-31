@@ -2812,7 +2812,6 @@ input[type="button"]:disabled,
 	color: rgba(255, 255, 255, 0.5);
 	font-size: 1.35em;
 	line-height: 1.75em;
-	margin: 0 0 0 2em;
 }
 
 #header .image.avatar {
