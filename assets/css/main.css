@@ -125,6 +125,16 @@ q {
 	quotes: none;
 }
 
+.inside {
+	padding-right: 25px;
+}
+
+#pfp {
+	border-style: dotted solid;
+    padding: 10px;
+    border-width: 5px;
+}
+
 blockquote:before,
 blockquote:after,
 q:before,
@@ -269,6 +279,8 @@ h2 {
 	text-decoration: underline;
 	text-transform: capitalize;
 	color: #4d6c62;
+	font: 1.5em Verdana, Geneva, sans-serif;
+
 }
 
 h3 {
@@ -2310,7 +2322,7 @@ input[type="radio"]+label:before {
 
 .image.avatar img {
 	border-radius: 100%;
-	width: 120%;
+	width: 140%;
 }
 
 /* List */
